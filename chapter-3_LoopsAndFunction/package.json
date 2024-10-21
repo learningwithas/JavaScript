@@ -1,0 +1,17 @@
+{
+  "name": "chapter-3_loopsandfunction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon chapter3.js",
+    "dev": "nodemon chapter3_Practice.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
